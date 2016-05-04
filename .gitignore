@@ -6,6 +6,10 @@
 *.bck
 *.kicad_pcb-bak
 
+# Editor locks
+*~
+.~lock.*\#
+
 # Netlist files (exported from Eeschema)
 *.net
 
