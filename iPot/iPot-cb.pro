@@ -1,4 +1,4 @@
-update=Tue 03 May 2016 07:49:39 PM KST
+update=Wed 04 May 2016 04:59:55 PM KST
 version=1
 last_client=kicad
 [pcbnew]
@@ -57,5 +57,6 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=lt1376
+LibName31=l298
 [general]
 version=1
