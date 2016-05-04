@@ -1,4 +1,4 @@
-update=Wed 04 May 2016 04:59:55 PM KST
+update=Wed 04 May 2016 05:54:44 PM KST
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,13 @@ LibName30=lt1376
 LibName31=l298
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
