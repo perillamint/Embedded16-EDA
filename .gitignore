@@ -11,3 +11,4 @@
 
 # Autorouter files (exported from Pcbnew)
 .dsn
+*-cache.lib
