@@ -30,6 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:lt1376
 LIBS:l298
+LIBS:iPot-cb-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -37,7 +38,7 @@ encoding utf-8
 Sheet 1 1
 Title "iPot control board"
 Date "2016-05-04"
-Rev "v1.0"
+Rev "v1.1"
 Comp "Korea University"
 Comment1 "Licensed under CERN OHL v1.2"
 Comment2 ""
@@ -1737,10 +1738,10 @@ Wire Wire Line
 Text Label 8650 2600 0    60   ~ 0
 /SS
 $Comp
-L SWITCH_INV SW2
+L SWITCH_INV JP1
 U 1 1 572AF641
 P 10550 1900
-F 0 "SW2" H 10350 2050 50  0000 C CNN
+F 0 "JP1" H 10350 2050 50  0000 C CNN
 F 1 "ISP_SELECT_JP" H 10400 1750 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x03" H 10550 1900 50  0001 C CNN
 F 3 "" H 10550 1900 50  0000 C CNN

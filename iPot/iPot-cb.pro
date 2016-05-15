@@ -1,4 +1,4 @@
-update=Wed 04 May 2016 05:54:44 PM KST
+update=Sun 15 May 2016 06:30:25 PM KST
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,8 +58,6 @@ LibName28=contrib
 LibName29=valves
 LibName30=lt1376
 LibName31=l298
-[general]
-version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -70,3 +68,5 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[general]
+version=1
