@@ -38,7 +38,7 @@ encoding utf-8
 Sheet 1 1
 Title "iPot control board"
 Date "2016-05-04"
-Rev "v1.1"
+Rev "v1.2"
 Comp "Korea University"
 Comment1 "Licensed under CERN OHL v1.2"
 Comment2 ""
@@ -823,7 +823,7 @@ L R R8
 U 1 1 5729D4A7
 P 3000 3250
 F 0 "R8" V 3080 3250 50  0000 C CNN
-F 1 "1k" V 3000 3250 50  0000 C CNN
+F 1 "680" V 3000 3250 50  0000 C CNN
 F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 2930 3250 50  0001 C CNN
 F 3 "" H 3000 3250 50  0000 C CNN
 	1    3000 3250
@@ -834,7 +834,7 @@ L R R7
 U 1 1 5729D54C
 P 3000 2750
 F 0 "R7" V 3080 2750 50  0000 C CNN
-F 1 "270" V 3000 2750 50  0000 C CNN
+F 1 "390" V 3000 2750 50  0000 C CNN
 F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 2930 2750 50  0001 C CNN
 F 3 "" H 3000 2750 50  0000 C CNN
 	1    3000 2750
