@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:iPot-cb-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -189,7 +190,7 @@ F 3 "" H 850 5400 50  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L USB_A P5
+L USB_A-RESCUE-iPot-cb P5
 U 1 1 572727EE
 P 950 6300
 F 0 "P5" H 1150 6100 50  0000 C CNN
@@ -893,7 +894,7 @@ SDA
 Text Label 10000 5600 0    60   ~ 0
 SCL
 $Comp
-L USB_A P13
+L USB_A-RESCUE-iPot-cb P13
 U 1 1 572A937E
 P 950 7050
 F 0 "P13" H 1150 6850 50  0000 C CNN
